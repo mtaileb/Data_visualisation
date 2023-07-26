@@ -1,0 +1,17 @@
+,City,Country,Population,Inland area in km2,Density in people per hectare,Dwellings,Density in dwellings per hectare,People per dwelling,Approx city radius km,Main topographical constraint,Constraint,City Size
+1,Greater London ,England ,"8,663,300","1,572",55.0,"3,454,490",22.0,2.5,23.0,Rivers ,4%,Mega
+2,Inner London ,England ,"3,439,700",319,108.0,"1,460,840",46.0,2.4,10.0,Rivers ,5%,Medium
+4,Paris ,France ,"2,229,621",105,212.0,"1,336,209",127.0,1.7,8.0, Rivers,2%,Small
+5,Lyon ,France ,"500,715",48,105.0,"265,599",55.0,1.9,7.0, Rivers,5%,Small
+6,Berlin ,Germany ,"3,469,849",892,39.0,"1,892,000",21.0,1.8,16.0, Rivers,6%,Large
+7,Madrid (City) ,Spain ,"3,141,991",606,52.0,"1,320,531",22.0,2.4,13.0, Mountains,12%,Large
+8,Barcelona ,Spain ,"1,604,555",98,163.0,"684,078",70.0,2.3,6.0, Coast and mountains,75%,Small
+9,Sevilla ,Spain ,"693,878",141,49.0,"268,435",19.0,2.6,7.0, Rivers,3%,Small
+10,New York (City) ,United States ,"8,491,079",784,108.0,"3,371,062",43.0,2.5,14.0, Coast and rivers,40%,Large
+11,Chicago ,United States ,"2,722,389",590,46.0,"1,194,337",20.0,2.3,13.0, Lake,45%,Medium
+12,Boston ,United States ,"617,594",125,49.0,"272,481",22.0,2.3,6.0, Coast,30%,Small
+13,Rio de Janeiro (Municipality) ,Brazil ,"6,476,631",1200,54.0,"2,467,000",21.0,2.6,18.0, Coast and mountains,75%,Mega
+14,Belo Horizonte (Municipality) ,Brazil ,"2,375,151",331,76.0,"762,075",23.0,3.1,10.0, Mountains,45%,Medium
+15,Singapore ,Singapore ,"3,902,710",666,59.0,"1,225,300",18.0,3.2,14.0, Coast,95%,Large
+16,Tokyo (Special Wards Area) ,Japan ,"9,272,565",627,148.0,"6,437,000",103.0,1.4,14.0, Coast and mountains,70%,Large
+17,Osaka (City) ,Japan ,"2,691,742",225,120.0,"1,634,100",73.0,1.6,8.0, Coast,20%,Small
